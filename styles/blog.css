@@ -1,4 +1,6 @@
 div{
-    background-color: blueviolet;
+    background-color: rgb(179, 138, 216);
     padding: 10px;
+    border: 10px solid rgb(165, 224, 165);
+    margin: 10px;
 }
